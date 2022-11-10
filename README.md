@@ -1,0 +1,2 @@
+- 어디에나 있는 평범한 개발자
+- [blog.skeep.link](blog.skeep.link)
