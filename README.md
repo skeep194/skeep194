@@ -1,5 +1,5 @@
 - 어디에나 있는 평범한 개발자
-- [blog.skeep.link](blog.skeep.link)
+- [blog.skeep.link](https://blog.skeep.link)
 
 [![CodeForces Profile](https://cf.leed.at?id=skeep194)](https://codeforces.com/profile/skeep194)
 
