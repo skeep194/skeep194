@@ -1,5 +1,4 @@
-- 어디에나 있는 평범한 개발자
-- 여러 언어랑 기술 먹어보는중..(최근엔 Golang이 좀 맛있네요)
+- 미지의 세계를 탐험하는 방랑자.
 - 취미는 problem solving이에요.
 - [cphof.org/profile/codeforces:skeep194](https://cphof.org/profile/codeforces:skeep194)
 - [blog.skeep.link](https://blog.skeep.link)
