@@ -1,5 +1,6 @@
 - 미지의 세계를 탐험하는 방랑자.
-- 취미는 problem solving이에요.
+- 취미는 **problem solving**이에요.
+- 무엇이든 재미가 있다면 그걸로 OK 아닐까요?
 - [cphof.org/profile/codeforces:skeep194](https://cphof.org/profile/codeforces:skeep194)
 - [blog.skeep.link](https://blog.skeep.link)
 - [CV](https://childish-fireplace-4d1.notion.site/CV-2b2eaa18c310454c8e909aa3666812ff)
